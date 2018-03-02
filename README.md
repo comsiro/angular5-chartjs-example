@@ -8,7 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - Chart.js를 설치하고 코드는 업로드된 것을 참조하세요.
 
-  npm install chartjs --save
+  npm install chart.js --save
+
+- Chart.js에 관한 자세한 내용은 아래 공식 사이트를 참조하세요.
+
+  http://www.chartjs.org/
 
 # Reference
 TOBIAS AHLIN / BLOG : http://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/
