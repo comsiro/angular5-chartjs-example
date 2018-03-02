@@ -7,7 +7,7 @@ https://angular.io/api/core/ChangeDetectorRef
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 * Chart.js를 설치하고 코드는 업로드된 것을 참조하세요.
- npm install chartjs --save
+- npm install chartjs --save
 
 # Reference
 TOBIAS AHLIN / BLOG : http://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/
