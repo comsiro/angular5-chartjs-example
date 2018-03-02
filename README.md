@@ -1,30 +1,10 @@
-# Angular5Chartjs
+# Angular5 + Chartjs 예제
+
+처음 사용하는 분들을 위해 바차트 예제 하나만 TOBIAS AHLIN 블로그에서 가져와 ViewChild를 사용하도록 코드를 수정하였습니다. 코딩을 하다가 뷰가 초기화 된 후에 값이 변경되었다는 에러가 발생하면 ChangeDetectorRef를 사용해야 할 수 있습니다. ChangeDetectorRef에 대한 자세한 내용은 아래 링크를 참조하세요.
+
+https://angular.io/api/core/ChangeDetectorRef
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# angular5-chartjs
-# angular5-chartjs
-# angular5-chartjs-example
+# Reference
+TOBIAS AHLIN / BLOG : http://tobiasahlin.com/blog/chartjs-charts-to-get-you-started/
